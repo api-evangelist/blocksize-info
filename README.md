@@ -1,4 +1,4 @@
-# blocksize-info
+# Blocksize
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,143 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-blocksize-info is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://blocksize.info/
+Blocksize provides real‑time aggregated crypto and tokenized asset market data from over 70 exchanges, delivering reference price feeds through eight oracle networks via a single API. Founded in 2018, the Frankfurt‑based company offers free trials and tiered pricing for developers and enterprises.
+
+**Areas:** Market Data · Tokenized Assets · Oracle Networks · Financial Institutions · Developers
+
+## Blocksize on APIs.io
+
+Everything profiled for Blocksize is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/blocksize-info/](https://apis.io/providers/blocksize-info/)** — or go straight to one of the APIs or properties below.
+
+### APIs (29)
+
+- [Blocksize Market Data API](https://apis.io/apis/blocksize-info/blocksize-market-data-api/) — Institutional-grade real-time market data gateway for autonomous AI agents.
+- [Blocksize Account Plans API](https://apis.io/apis/blocksize-info/blocksize-info-account-plans-api/) — The Account Plans API from Blocksize — 2 operation(s) for account plans.
+- [Blocksize Batch API](https://apis.io/apis/blocksize-info/blocksize-info-batch-api/) — The Batch API from Blocksize — 1 operation(s) for batch.
+- [Blocksize Bidask API](https://apis.io/apis/blocksize-info/blocksize-info-bidask-api/) — The Bidask API from Blocksize — 1 operation(s) for bidask.
+- [Blocksize Briefs API](https://apis.io/apis/blocksize-info/blocksize-info-briefs-api/) — The Briefs API from Blocksize — 1 operation(s) for briefs.
+- [Blocksize Cache API](https://apis.io/apis/blocksize-info/blocksize-info-cache-api/) — The Cache API from Blocksize — 1 operation(s) for cache.
+- [Blocksize Capabilities API](https://apis.io/apis/blocksize-info/blocksize-info-capabilities-api/) — The Capabilities API from Blocksize — 1 operation(s) for capabilities.
+- [Blocksize Checks API](https://apis.io/apis/blocksize-info/blocksize-info-checks-api/) — The Checks API from Blocksize — 1 operation(s) for checks.
+- [Blocksize Coverage API](https://apis.io/apis/blocksize-info/blocksize-info-coverage-api/) — The Coverage API from Blocksize — 1 operation(s) for coverage.
+- [Blocksize Fx API](https://apis.io/apis/blocksize-info/blocksize-info-fx-api/) — The Fx API from Blocksize — 1 operation(s) for fx.
+- [Blocksize Health API](https://apis.io/apis/blocksize-info/blocksize-info-health-api/) — The Health API from Blocksize — 1 operation(s) for health.
+- [Blocksize Indicators API](https://apis.io/apis/blocksize-info/blocksize-info-indicators-api/) — The Indicators API from Blocksize — 2 operation(s) for indicators.
+- [Blocksize Instruments API](https://apis.io/apis/blocksize-info/blocksize-info-instruments-api/) — The Instruments API from Blocksize — 1 operation(s) for instruments.
+- [Blocksize MCP API](https://apis.io/apis/blocksize-info/blocksize-info-mcp-api/) — The Mcp API from Blocksize — 1 operation(s) for mcp.
+- [Blocksize Metal API](https://apis.io/apis/blocksize-info/blocksize-info-metal-api/) — The Metal API from Blocksize — 1 operation(s) for metal.
+- [Blocksize Monitors API](https://apis.io/apis/blocksize-info/blocksize-info-monitors-api/) — The Monitors API from Blocksize — 2 operation(s) for monitors.
+- [Blocksize Previews API](https://apis.io/apis/blocksize-info/blocksize-info-previews-api/) — The Previews API from Blocksize — 1 operation(s) for previews.
+- [Blocksize Products API](https://apis.io/apis/blocksize-info/blocksize-info-products-api/) — The Products API from Blocksize — 1 operation(s) for products.
+- [Blocksize Provenance API](https://apis.io/apis/blocksize-info/blocksize-info-provenance-api/) — The Provenance API from Blocksize — 1 operation(s) for provenance.
+- [Blocksize Receipts API](https://apis.io/apis/blocksize-info/blocksize-info-receipts-api/) — The Receipts API from Blocksize — 1 operation(s) for receipts.
+- [Blocksize Rwa API](https://apis.io/apis/blocksize-info/blocksize-info-rwa-api/) — The Rwa API from Blocksize — 42 operation(s) for rwa.
+- [Blocksize Samples API](https://apis.io/apis/blocksize-info/blocksize-info-samples-api/) — The Samples API from Blocksize — 4 operation(s) for samples.
+- [Blocksize Search API](https://apis.io/apis/blocksize-info/blocksize-info-search-api/) — The Search API from Blocksize — 1 operation(s) for search.
+- [Blocksize Signals API](https://apis.io/apis/blocksize-info/blocksize-info-signals-api/) — The Signals API from Blocksize — 2 operation(s) for signals.
+- [Blocksize Snapshots API](https://apis.io/apis/blocksize-info/blocksize-info-snapshots-api/) — The Snapshots API from Blocksize — 1 operation(s) for snapshots.
+- [Blocksize State API](https://apis.io/apis/blocksize-info/blocksize-info-state-api/) — The State API from Blocksize — 1 operation(s) for state.
+- [Blocksize Vwap API](https://apis.io/apis/blocksize-info/blocksize-info-vwap-api/) — The Vwap API from Blocksize — 1 operation(s) for vwap.
+- [Blocksize Vwap24h API](https://apis.io/apis/blocksize-info/blocksize-info-vwap24h-api/) — The Vwap24h API from Blocksize — 1 operation(s) for vwap24h.
+- [Blocksize Vwap30m API](https://apis.io/apis/blocksize-info/blocksize-info-vwap30m-api/) — The Vwap30m API from Blocksize — 1 operation(s) for vwap30m.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Blocksize Info Agentic Access](https://apis.io/agentic-access/blocksize-info/blocksize-info-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Blocksize Info Context](https://apis.io/jsonld/blocksize-info/blocksize-info-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Blocksize API Rules](https://apis.io/rules/blocksize-info/blocksize-info-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Blocksize Info Domain Security](https://apis.io/security/blocksize-info/blocksize-info-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Blocksize Info Plans Pricing](https://apis.io/plans/blocksize-info/blocksize-info-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://blocksize.info/)
+- [Getting started](https://blocksize.info/pricing/)
+- [API reference](https://mcp.blocksize.info/docs)
+- [Pricing](https://blocksize.info/pricing/)
+- [Blog](https://blocksize.info/blog/)
+- [Terms of service](https://blocksize.info/terms-conditions-data/)
+- [GitHub](https://github.com/Blocksize-Capital-GmbH/)
+
+## API Evangelist rating
+
+**Kin Score 46.0** — developing · rubric 0.25.0 · scored 2026-11-02
+
+| Facet | Score |
+|---|---|
+| Discoverability | 67.9 |
+| Contract quality | 43.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 37.4 |
+| Access clarity | 49.5 |
+
+**Agent readiness 59.0** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 25.0** — Securities & Market Data
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/blocksize-info/](https://apis.io/providers/blocksize-info/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Blocksize: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/blocksize-info/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
